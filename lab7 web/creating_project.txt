@@ -1,0 +1,9 @@
+1) u can download django from the extensions
+2)pip install virtualenv
+3)virtualenv env
+4).\env\scripts\activate
+5)pip install django
+6) django-admin startproject project1
+7)py manage.py startapp app1
+8)py manage.py runserver
+9)http://127.0.0.1:8000/admin/login/?next=/admin/
